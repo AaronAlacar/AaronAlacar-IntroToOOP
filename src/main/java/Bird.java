@@ -50,7 +50,6 @@ public class Bird {
         } else {
             return "Chirp";
         }
-        
     }
 
 }
